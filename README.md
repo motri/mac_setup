@@ -1,8 +1,6 @@
 #Steps for setting up new mac
 
 ##Xcode and git
-
-- `Git clone Confucius`
 - You will be prompted to install xcode command line tools.
 Click yes.
 - When this has installed you can try again to git clone confucius, butler, the rest of our repos.
